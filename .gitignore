@@ -10,3 +10,4 @@ cscope.*
 /django_macaddress.egg-info
 .eggs
 .tox/
+.coverage
